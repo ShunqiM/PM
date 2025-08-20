@@ -1,6 +1,6 @@
-export CKPT=/mnt/sdb/CKPT/VCD
-export DATA=/mnt/sdb/DATA/VCD
-export PREP=/mnt/sdb/PREP/VCD
+export CKPT=/mnt/sdb/CKPT/PM
+export DATA=/mnt/sdb/DATA/PM
+export PREP=/mnt/sdb/PREP/PM
 
 export SPLITS=train:val:test
 

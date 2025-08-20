@@ -19,7 +19,10 @@ conda activate pm
 pip install -r requirements.txt
 ```
 
+Then set up the environment variables in `starter/env_definer.sh` and follow the instructions in `starter/ReadMe.md`.
+
 ### Run
+
 The main implementation of **Perception Magnifier (PM)** is located in:
 
 ```bash

@@ -1,4 +1,4 @@
-#Perception Magnifier
+# Environment Initialization for Perception Magnifier
 
 
 put below into `~/.zshrc` and source it
