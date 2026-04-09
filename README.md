@@ -1,6 +1,6 @@
 # Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding
  
-This is the official implementation of the paper:  
+This is the official implementation of the paper (ACL 2026 Main Conference):  
 **["Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding"](https://arxiv.org/abs/2503.10183)**
 
 
